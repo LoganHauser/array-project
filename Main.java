@@ -2,6 +2,7 @@ public class Main {
     
     public static void main(String[] args) {
         
+        //Create empty array with 100 items and variable for counting the total sum of the array
         int[] numbers = new int[100];
         int sum = 0;
 
